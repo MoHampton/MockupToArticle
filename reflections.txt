@@ -1,0 +1,18 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+* I learned more about <figure> and <figurecaption>. In the past, I would just place a <p> under the image and follow it with the appropriate <a href=""> to link the url.
+  I also learned more about markdown language.  I want to continue posting all of my projects to github but I want to include the project instructions for reference.
+
+* With my prior experience, I expected the first few lessons to be quite easy, but surprisingly, I found myself spending time more time on the suggested resources. The HTML tags and relative paths were fairly easy.  So overall, it wasn't too challenging but more eye-opening.  I'm excited to move to CSS. 
+
+* The initial difficult piece was getting the chrome extension to operate. After visiting the slack channel and reviewing several comments, I was able to properly operate the extension. 
+
+* DO NOT SPEND TOO MUCH TIME TRYING THE SOLVE A CODING ISSUE ALONE. I usually spend too much time on researching and trying to solve issues alone.  This is very time consuming and not the most effective way to accomplish my goal.  In the future lessons, I will leverage the forums and slack if I’m unable to resolve an issue after researching for too long.
